@@ -8,3 +8,6 @@ deleteTask(id)
   setMainTask(mainTask.filter((task) => task.id !== id));
   filter the task that not matches with given id, and update setMainTask
   setCount(mainTask.length - 1) - setCount to array length - 1
+
+First commit done
+Second commit for UI update ~ 4 april 2025
